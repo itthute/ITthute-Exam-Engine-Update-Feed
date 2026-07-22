@@ -1,10 +1,10 @@
 {
-  "latestVersion": "0.5.2",
-  "versionCode": 40,
-  "releaseName": "ITthute Exam Engine v0.5.2",
-  "releaseUrl": "https://github.com/itthute/ITthute-Exam-Engine/releases/latest",
-  "apkUrl": "https://github.com/itthute/ITthute-Exam-Engine/releases/latest",
-  "message": "Version 0.5.2 improves the update dialog layout, separates update actions from feed settings, and uses the public raw GitHub update manifest as the default feed.",
-  "releaseNotes": "Update dialog polish: fixed overlapping buttons, hid the feed editor by default, added clearer latest-version messaging, and changed the built-in default feed URL.",
+  "latestVersion": "0.5.3",
+  "versionCode": 41,
+  "releaseName": "ITthute Exam Engine v0.5.3",
+  "releaseUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/tag/v0.5.3",
+  "apkUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/download/v0.5.3/ITthute-Exam-Engine-v0.5.3-debug.apk",
+  "message": "Version 0.5.3 improves the update flow by supporting specific versioned APK release links instead of only the generic latest-release page.",
+  "releaseNotes": "Specific APK release-link flow: manifests can point to an exact APK asset URL, a versioned release asset, a versioned release page, or the latest release page. The app labels the target type and uses Download APK or Open release as appropriate.",
   "mandatory": false
 }
