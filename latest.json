@@ -1,10 +1,10 @@
 {
-  "latestVersion": "0.5.1",
-  "versionCode": 39,
-  "releaseName": "ITthute Exam Engine v0.5.1",
+  "latestVersion": "0.5.2",
+  "versionCode": 40,
+  "releaseName": "ITthute Exam Engine v0.5.2 test",
   "releaseUrl": "https://github.com/itthute/ITthute-Exam-Engine/releases/latest",
   "apkUrl": "https://github.com/itthute/ITthute-Exam-Engine/releases/latest",
-  "message": "Version 0.5.1 improves the in-app update flow with automatic checking, update prompts, Install now, Later and Skip options. Open the release page to download the latest APK.",
-  "releaseNotes": "Practical update prompt flow for private GitHub testing. The app uses this public manifest to detect updates, then opens the release page for manual APK download and install.",
+  "message": "Test update prompt for v0.5.2.",
+  "releaseNotes": "This is a temporary test manifest entry to confirm update detection works.",
   "mandatory": false
 }
