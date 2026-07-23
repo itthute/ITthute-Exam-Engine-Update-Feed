@@ -1,10 +1,10 @@
 {
-  "latestVersion": "0.5.5",
-  "versionCode": 43,
-  "releaseName": "ITthute Exam Engine v0.5.5",
-  "releaseUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/tag/v0.5.5",
-  "apkUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/download/v0.5.5/ITthute-Exam-Engine-v0.5.5-debug.apk",
-  "message": "Version 0.5.5 is a signed update proof release that verifies the new stable signing baseline can upgrade from v0.5.4 to v0.5.5.",
-  "releaseNotes": "Signed update proof: this release keeps the stable GitHub Actions signing key introduced in v0.5.4, publishes a v0.5.5 APK artifact for public update-feed release testing, and adds extra update dialog scroll padding so long update details remain visible above the action buttons.",
+  "latestVersion": "0.5.6",
+  "versionCode": 44,
+  "releaseName": "ITthute Exam Engine v0.5.6",
+  "releaseUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/tag/v0.5.6",
+  "apkUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/download/v0.5.6/ITthute-Exam-Engine-v0.5.6-debug.apk",
+  "message": "Version 0.5.6 is the stable-signing upgrade proof release that verifies v0.5.5 can upgrade to v0.5.6 without reinstalling.",
+  "releaseNotes": "Stable-signing upgrade proof: this release uses the same stable debug keystore introduced for the clean v0.5.5 baseline and publishes a v0.5.6 APK artifact for public update-feed release testing. The expected result is a normal Android install over v0.5.5 with no signing mismatch.",
   "mandatory": false
 }
