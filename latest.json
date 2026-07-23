@@ -1,10 +1,10 @@
 {
-  "latestVersion": "0.5.3",
-  "versionCode": 41,
-  "releaseName": "ITthute Exam Engine v0.5.3",
-  "releaseUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/tag/v0.5.3",
-  "apkUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/download/v0.5.3/ITthute-Exam-Engine-v0.5.3-debug.apk",
-  "message": "Version 0.5.3 improves the update flow by supporting specific versioned APK release links instead of only the generic latest-release page.",
-  "releaseNotes": "Specific APK release-link flow: manifests can point to an exact APK asset URL, a versioned release asset, a versioned release page, or the latest release page. The app labels the target type and uses Download APK or Open release as appropriate.",
+  "latestVersion": "0.5.5",
+  "versionCode": 43,
+  "releaseName": "ITthute Exam Engine v0.5.5",
+  "releaseUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/tag/v0.5.5",
+  "apkUrl": "https://github.com/itthute/ITthute-Exam-Engine-Update-Feed/releases/download/v0.5.5/ITthute-Exam-Engine-v0.5.5-debug.apk",
+  "message": "Version 0.5.5 is a signed update proof release that verifies the new stable signing baseline can upgrade from v0.5.4 to v0.5.5.",
+  "releaseNotes": "Signed update proof: this release keeps the stable GitHub Actions signing key introduced in v0.5.4, publishes a v0.5.5 APK artifact for public update-feed release testing, and adds extra update dialog scroll padding so long update details remain visible above the action buttons.",
   "mandatory": false
 }
